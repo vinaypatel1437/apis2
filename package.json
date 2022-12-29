@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines" : {
+    "node": "16.17.0",
+    "npm" : "8.15.0"
+  },
   "name": "apis",
   "version": "1.0.0",
   "main": "server.js",
